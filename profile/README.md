@@ -9,3 +9,5 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 - [Tabysi](https://github.com/tabysi)  Developer (Game & Web Development)
 - [GMW](https://github.com/GermanWarthog)  Developer (Game & Web Development)
 - [DomaX](https://www.gta5-mods.com/users/DomaX)  Developer (Game Modeling & Modding)
+
+## ❤ Our Patreons
