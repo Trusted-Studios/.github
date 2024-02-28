@@ -13,7 +13,7 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 ## ❤ Support us
 ### [Patreon](https://www.patreon.com/TrustedStudios/)
 
-## Resources we recomend for FiveM:
+## 📝 Resources we recomend for FiveM:
 
 ### Overextended
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_inventory&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
