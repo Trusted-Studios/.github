@@ -2,8 +2,8 @@
 
 Trusted Studios is a group of creators aiming to provide the best assets at affordable prices and offer free products as well. Our goal is to make high-quality content accessible to everyone.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GermanWarthog&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tabysi&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GermanWarthog&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tabysi&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -20,6 +20,6 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 ## 📝 Resources we recomend for FiveM:
 
 ### Overextended
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_inventory&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_lib&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=cfxlua-vscode&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_inventory&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_lib&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=cfxlua-vscode&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
