@@ -2,6 +2,10 @@
 
 Trusted Studios is a group of creators aiming to provide the best assets at affordable prices and offer free products as well. Our goal is to make high-quality content accessible to everyone.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GermanWarthog&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tabysi&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 💻 Team
