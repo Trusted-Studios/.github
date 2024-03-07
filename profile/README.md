@@ -23,3 +23,10 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_inventory&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_lib&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=cfxlua-vscode&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+## Community
+<p>
+  <a href="https://discord.gg/AkGHmYrcrt">
+    <img src="https://img.shields.io/discord/1068573047172374634?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a>
+</p>
