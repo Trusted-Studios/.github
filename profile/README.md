@@ -9,10 +9,9 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 
 ## 💻 Team
 
-- [Tabysi](https://github.com/tabysi)  Founder and Developer (Game & Web Development)
-- [GMW](https://github.com/GermanWarthog)  Founder and Developer (Game & Web Development)
-- [DomaX](https://www.gta5-mods.com/users/DomaX)  Developer (Game Modeling & Modding)
-<br><br>Want to be part of the (open source) team? Then add tabysi on discord or send us an email
+- [Tabysi](https://github.com/tabysi)  Founder & Developer
+- [GMW](https://github.com/GermanWarthog)  Co-Founder & Developer
+- [DomaX](https://www.gta5-mods.com/users/DomaX)  Co-Founder & Game Developer
 
 ## ❤ Support us
 ### [Patreon](https://www.patreon.com/TrustedStudios/)
