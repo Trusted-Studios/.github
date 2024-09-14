@@ -20,9 +20,9 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 ## 📝 Resources we recomend for FiveM:
 
 ### Overextended
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_inventory&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_lib&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=cfxlua-vscode&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_inventory&theme=nord)](https://github.com/overextended/ox_inventory)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=ox_lib&theme=nord)](https://github.com/overextended/ox_lib)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overextended&repo=cfxlua-vscode&theme=nord)](https://github.com/overextended/cfxlua-vscode)
 
 ## Community
 <p>
