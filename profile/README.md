@@ -9,11 +9,12 @@ Trusted Studios is a group of creators aiming to provide the best assets at affo
 
 ## 💻 Team
 
-- [Tabysi](https://github.com/tabysi)  Founder & Developer
-- [GMW](https://github.com/Jeremoiii)  Co-Founder & Developer
-
+- [Tabysi](https://github.com/tabysi)  Founder & CEO
+- [GMW](https://github.com/Jeremoiii)  CEO
+  
+<!--
 ## ❤ Support us
-### [Patreon](https://www.patreon.com/TrustedStudios/)
+### [Patreon](https://www.patreon.com/TrustedStudios/)-->
 
 ## 📝 Resources we recomend for FiveM:
 
